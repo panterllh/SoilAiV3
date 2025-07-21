@@ -1,0 +1,14 @@
+{
+  "accuracy": 0.8888888955116272,
+  "total_images": 180,
+  "soil_types": [
+    "loam",
+    "sand",
+    "clay"
+  ],
+  "soil_types_thai": [
+    "\u0e14\u0e34\u0e19\u0e23\u0e48\u0e27\u0e19",
+    "\u0e14\u0e34\u0e19\u0e17\u0e23\u0e32\u0e22",
+    "\u0e14\u0e34\u0e19\u0e40\u0e2b\u0e19\u0e35\u0e22\u0e27"
+  ]
+}
